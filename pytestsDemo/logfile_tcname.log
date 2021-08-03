@@ -1,0 +1,40 @@
+2021-07-27 07:53:41,375 : INFO : pytestsDemo.test_loggingDemo : An info statement is executed
+2021-07-27 07:53:41,376 : WARNING : pytestsDemo.test_loggingDemo : WARNING WARNING WARNING
+2021-07-27 07:53:41,377 : ERROR : pytestsDemo.test_loggingDemo : ERROR ERROR ERROR ERROR
+2021-07-27 07:53:41,377 : CRITICAL : pytestsDemo.test_loggingDemo : SHOWSTOPPER BUG
+2021-07-27 12:57:50,570 : INFO : pytestsDemo.test_loggingDemo : An info statement is executed
+2021-07-27 12:57:50,571 : WARNING : pytestsDemo.test_loggingDemo : WARNING WARNING WARNING
+2021-07-27 12:57:50,571 : ERROR : pytestsDemo.test_loggingDemo : ERROR ERROR ERROR ERROR
+2021-07-27 12:57:50,571 : CRITICAL : pytestsDemo.test_loggingDemo : SHOWSTOPPER BUG
+2021-07-27 13:01:44,874 : INFO : pytestsDemo.test_loggingDemo : An info statement is executed
+2021-07-27 13:01:44,874 : WARNING : pytestsDemo.test_loggingDemo : WARNING WARNING WARNING
+2021-07-27 13:01:44,874 : ERROR : pytestsDemo.test_loggingDemo : ERROR ERROR ERROR ERROR
+2021-07-27 13:01:44,874 : CRITICAL : pytestsDemo.test_loggingDemo : SHOWSTOPPER BUG
+2021-07-27 13:02:13,470 : INFO : pytestsDemo.test_loggingDemo : An info statement is executed
+2021-07-27 13:02:13,470 : WARNING : pytestsDemo.test_loggingDemo : WARNING WARNING WARNING
+2021-07-27 13:02:13,470 : ERROR : pytestsDemo.test_loggingDemo : ERROR ERROR ERROR ERROR
+2021-07-27 13:02:13,470 : CRITICAL : pytestsDemo.test_loggingDemo : SHOWSTOPPER BUG
+2021-07-27 13:02:41,055 : INFO : pytestsDemo.test_loggingDemo : An info statement is executed &^%^$^%$^
+2021-07-27 13:02:41,056 : WARNING : pytestsDemo.test_loggingDemo : WARNING WARNING WARNING
+2021-07-27 13:02:41,056 : ERROR : pytestsDemo.test_loggingDemo : ERROR ERROR ERROR ERROR
+2021-07-27 13:02:41,056 : CRITICAL : pytestsDemo.test_loggingDemo : SHOWSTOPPER BUG
+2021-07-27 13:07:53,207 : INFO : pytestsDemo.LoggerClass : Rahul
+2021-07-27 13:07:53,207 : INFO : pytestsDemo.LoggerClass : Shetty
+2021-07-27 13:07:53,207 : INFO : pytestsDemo.LoggerClass : rahulshettyacademy.com
+2021-07-27 13:10:30,047 : INFO : pytestsDemo.LoggerClass : Rahul
+2021-07-27 13:10:30,047 : INFO : pytestsDemo.LoggerClass : Shetty
+2021-07-27 13:10:30,047 : INFO : pytestsDemo.LoggerClass : rahulshettyacademy.com
+2021-07-27 13:11:01,194 : INFO : pytestsDemo.LoggerClass : Rahul
+2021-07-27 13:11:01,194 : INFO : pytestsDemo.LoggerClass : Shetty
+2021-07-27 13:11:01,194 : INFO : pytestsDemo.LoggerClass : rahulshettyacademy.com
+2021-07-27 13:11:01,204 : INFO : pytestsDemo.test_loggingDemo : An info statement is executed &^%^$^%$^
+2021-07-27 13:11:01,205 : WARNING : pytestsDemo.test_loggingDemo : WARNING WARNING WARNING
+2021-07-27 13:11:01,205 : ERROR : pytestsDemo.test_loggingDemo : ERROR ERROR ERROR ERROR
+2021-07-27 13:11:01,205 : CRITICAL : pytestsDemo.test_loggingDemo : SHOWSTOPPER BUG
+2021-07-27 13:12:36,503 : INFO : pytestsDemo.LoggerClass : Rahul
+2021-07-27 13:12:36,503 : INFO : pytestsDemo.LoggerClass : Shetty
+2021-07-27 13:12:36,503 : INFO : pytestsDemo.LoggerClass : rahulshettyacademy.com
+2021-07-27 13:12:36,508 : INFO : pytestsDemo.test_loggingDemo : An info statement is executed &^%^$^%$^
+2021-07-27 13:12:36,508 : WARNING : pytestsDemo.test_loggingDemo : WARNING WARNING WARNING
+2021-07-27 13:12:36,508 : ERROR : pytestsDemo.test_loggingDemo : ERROR ERROR ERROR ERROR
+2021-07-27 13:12:36,509 : CRITICAL : pytestsDemo.test_loggingDemo : SHOWSTOPPER BUG

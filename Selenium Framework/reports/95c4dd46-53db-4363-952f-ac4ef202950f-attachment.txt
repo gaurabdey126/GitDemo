@@ -1,0 +1,6 @@
+[32mINFO    [0m test_e2e:test_e2e.py:30 iphone X
+[32mINFO    [0m test_e2e:test_e2e.py:30 Samsung Note 8
+[32mINFO    [0m test_e2e:test_e2e.py:30 Nokia Edge
+[32mINFO    [0m test_e2e:test_e2e.py:30 Blackberry
+[32mINFO    [0m test_e2e:test_e2e.py:37 Product is same between Add and Checkout page
+[32mINFO    [0m test_e2e:test_e2e.py:42 Enter the value as Ind

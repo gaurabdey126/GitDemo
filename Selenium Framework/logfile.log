@@ -1,0 +1,258 @@
+2021-07-29 14:49:09,080 : INFO : utilities.BaseClass : iphone X
+2021-07-29 14:49:09,090 : INFO : utilities.BaseClass : Samsung Note 8
+2021-07-29 14:49:09,100 : INFO : utilities.BaseClass : Nokia Edge
+2021-07-29 14:49:09,168 : INFO : utilities.BaseClass : Blackberry
+2021-07-29 14:49:09,235 : INFO : utilities.BaseClass : Product is same between Add and Checkout page
+2021-07-29 14:49:09,280 : INFO : utilities.BaseClass : Enter the value as Ind
+2021-07-29 14:49:17,423 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:17,423 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:17,921 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:17,921 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:17,921 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:18,423 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:18,423 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:18,423 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:49:18,423 : INFO : utilities.BaseClass : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:52:37,663 : INFO : test_e2e : iphone X
+2021-07-29 14:52:37,673 : INFO : test_e2e : Samsung Note 8
+2021-07-29 14:52:37,682 : INFO : test_e2e : Nokia Edge
+2021-07-29 14:52:37,741 : INFO : test_e2e : Blackberry
+2021-07-29 14:52:37,805 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-29 14:52:37,848 : INFO : test_e2e : Enter the value as Ind
+2021-07-29 14:52:46,013 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:52:46,591 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:52:46,591 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:52:47,079 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:52:47,079 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:52:47,079 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:58:52,950 : INFO : test_e2e : iphone X
+2021-07-29 14:58:52,958 : INFO : test_e2e : Samsung Note 8
+2021-07-29 14:58:52,968 : INFO : test_e2e : Nokia Edge
+2021-07-29 14:58:53,021 : INFO : test_e2e : Blackberry
+2021-07-29 14:58:53,084 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-29 14:58:53,128 : INFO : test_e2e : Enter the value as Ind
+2021-07-29 14:59:01,373 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:59:01,892 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:59:01,892 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:59:02,381 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:59:02,381 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 14:59:02,381 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 15:03:58,558 : INFO : test_e2e : iphone X
+2021-07-29 15:03:58,568 : INFO : test_e2e : Samsung Note 8
+2021-07-29 15:03:58,577 : INFO : test_e2e : Nokia Edge
+2021-07-29 15:03:58,639 : INFO : test_e2e : Blackberry
+2021-07-29 15:03:58,705 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-29 15:03:58,752 : INFO : test_e2e : Enter the value as Ind
+2021-07-29 15:04:06,751 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 15:04:07,266 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 15:04:07,266 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 15:04:07,774 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 15:04:07,774 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-29 15:04:07,774 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:15:32,129 : INFO : test_e2e : iphone X
+2021-07-30 15:15:32,139 : INFO : test_e2e : Samsung Note 8
+2021-07-30 15:15:32,148 : INFO : test_e2e : Nokia Edge
+2021-07-30 15:15:32,201 : INFO : test_e2e : Blackberry
+2021-07-30 15:15:32,264 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 15:15:32,307 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 15:15:40,362 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:15:40,877 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:15:40,877 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:15:41,368 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:15:41,368 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:15:41,368 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:27:59,106 : INFO : test_e2e : iphone X
+2021-07-30 15:27:59,116 : INFO : test_e2e : Samsung Note 8
+2021-07-30 15:27:59,125 : INFO : test_e2e : Nokia Edge
+2021-07-30 15:27:59,180 : INFO : test_e2e : Blackberry
+2021-07-30 15:27:59,241 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 15:27:59,283 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 15:28:07,317 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:28:07,838 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:28:07,838 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:28:08,340 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:28:08,340 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:28:08,340 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:32:12,139 : INFO : test_e2e : iphone X
+2021-07-30 15:32:12,149 : INFO : test_e2e : Samsung Note 8
+2021-07-30 15:32:12,158 : INFO : test_e2e : Nokia Edge
+2021-07-30 15:32:12,212 : INFO : test_e2e : Blackberry
+2021-07-30 15:32:12,275 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 15:32:12,317 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 15:32:20,156 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:32:20,663 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:32:20,663 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:32:21,172 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:32:21,172 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:32:21,172 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:43:03,502 : INFO : test_e2e : iphone X
+2021-07-30 15:43:03,512 : INFO : test_e2e : Samsung Note 8
+2021-07-30 15:43:03,525 : INFO : test_e2e : Nokia Edge
+2021-07-30 15:43:03,581 : INFO : test_e2e : Blackberry
+2021-07-30 15:43:03,646 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 15:43:03,689 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 15:43:11,681 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:43:12,202 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:43:12,202 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:43:12,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:43:12,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:43:12,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:45:48,062 : INFO : test_e2e : iphone X
+2021-07-30 15:45:48,072 : INFO : test_e2e : Samsung Note 8
+2021-07-30 15:45:48,081 : INFO : test_e2e : Nokia Edge
+2021-07-30 15:45:48,138 : INFO : test_e2e : Blackberry
+2021-07-30 15:45:48,206 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 15:45:48,251 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 15:45:56,677 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:45:57,219 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:45:57,219 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:45:57,732 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:45:57,732 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:45:57,732 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:51:41,104 : INFO : test_e2e : iphone X
+2021-07-30 15:51:41,114 : INFO : test_e2e : Samsung Note 8
+2021-07-30 15:51:41,125 : INFO : test_e2e : Nokia Edge
+2021-07-30 15:51:41,183 : INFO : test_e2e : Blackberry
+2021-07-30 15:51:41,255 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 15:51:41,298 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 15:51:54,722 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:51:55,221 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:51:55,221 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:51:55,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:51:55,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 15:51:55,710 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:02:34,327 : INFO : test_e2e : iphone X
+2021-07-30 16:02:34,337 : INFO : test_e2e : Samsung Note 8
+2021-07-30 16:02:34,346 : INFO : test_e2e : Nokia Edge
+2021-07-30 16:02:34,404 : INFO : test_e2e : Blackberry
+2021-07-30 16:02:34,468 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 16:02:34,510 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 16:02:42,569 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:02:43,096 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:02:43,096 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:02:43,589 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:02:43,589 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:02:43,589 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:10:49,276 : INFO : test_e2e : iphone X
+2021-07-30 16:10:49,285 : INFO : test_e2e : Samsung Note 8
+2021-07-30 16:10:49,296 : INFO : test_e2e : Nokia Edge
+2021-07-30 16:10:49,352 : INFO : test_e2e : Blackberry
+2021-07-30 16:10:49,418 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 16:10:49,461 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 16:10:57,420 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:10:57,921 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:10:57,921 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:10:58,416 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:10:58,416 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:10:58,416 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:11:57,976 : INFO : test_e2e : iphone X
+2021-07-30 16:11:57,989 : INFO : test_e2e : Samsung Note 8
+2021-07-30 16:11:57,999 : INFO : test_e2e : Nokia Edge
+2021-07-30 16:11:58,057 : INFO : test_e2e : Blackberry
+2021-07-30 16:11:58,120 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-07-30 16:11:58,162 : INFO : test_e2e : Enter the value as Ind
+2021-07-30 16:12:06,007 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:12:06,528 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:12:06,528 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:12:07,024 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:12:07,024 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-07-30 16:12:07,024 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-08-03 15:10:24,592 : INFO : test_e2e : iphone X
+2021-08-03 15:10:24,601 : INFO : test_e2e : Samsung Note 8
+2021-08-03 15:10:24,610 : INFO : test_e2e : Nokia Edge
+2021-08-03 15:10:24,669 : INFO : test_e2e : Blackberry
+2021-08-03 15:10:24,737 : INFO : test_e2e : Product is same between Add and Checkout page
+2021-08-03 15:10:24,783 : INFO : test_e2e : Enter the value as Ind
+2021-08-03 15:10:32,706 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-08-03 15:10:33,212 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-08-03 15:10:33,212 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-08-03 15:10:33,690 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-08-03 15:10:33,690 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.
+2021-08-03 15:10:33,690 : INFO : test_formSubmission : ×
+Success! The Form has been submitted successfully!.

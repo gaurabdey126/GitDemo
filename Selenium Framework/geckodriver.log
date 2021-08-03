@@ -1,0 +1,12 @@
+1627451401268	geckodriver	INFO	Listening on 127.0.0.1:1026
+1627451404340	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileFKYaID"
+1627451405170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\gaura\\AppData\\Local\\Temp\\rust_mozprofileFKYaID\\search.json.mozlz4", (void 0)))
+1627451407285	Marionette	INFO	Listening on port 1035
+1627451407502	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1627451416271	Marionette	INFO	Stopped listening on port 1035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
