@@ -1,0 +1,12 @@
+import random
+print(random.random())
+print(random.randint(10,20))
+print(random.randrange(1,10,2))
+print(random.choice([3, 4, 5.5, 8, 'Ethan']))
+
+OUTPUT:::
+0.3292262754385523
+19
+7
+Ethan
+
