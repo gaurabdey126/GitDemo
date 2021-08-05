@@ -507,4 +507,26 @@ import allure  ## is a must
 
 pytest -v -s --alluredir=reports  ## --alluredir=folder path where u want to stor.....since we are already in the immediate path, hence given the folder name only
 allure serve reports  ## to convert the JSON in temporary report
+#############################################################################################################################
+
+# PYXL:
+import openpyxl
+
+excel = openpyxl.load_workbook("C:\\Users\\gaura\\Desktop\\Selenium with PYTHON\\Data_for_E2E.xlsx")
+sheet = excel.active
+
+Dict = {}
+
+for i in range (1, sheet.max_row+1):
+    if sheet.cell(row=i, column=1).value == "test case 2":      ###sheet.cell(row=i, column=j).value....  .value is must
+        for j in range (1, sheet.max_column+1):
+            Dict[sheet.cell(row=1, column=j).value]= sheet.cell(row=i, column=j).value
+
+print(Dict)
+
+
+If we want to call a method with CLASS.METHOD NAME...we can only do this for Static Methods...
+For all other methods..we have to create OBJECT of that class and then use OBJECT.METHOD NAME
+.self paramter is required when the method is NON STATIC..
+For @staticmethod, we don't have to declare (self)
 

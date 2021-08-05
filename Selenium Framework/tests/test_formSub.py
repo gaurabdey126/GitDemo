@@ -43,7 +43,7 @@ class TestFormSubmission(BaseClass):
     # TUPLE DATA TYPE
     # @pytest.fixture(params=[("Gaurab", "abc@gmail.com", "Male"), ("Ethan", "hunt@gmail.com", "Female"),("Bond", "James@hotmail.com", "Female")])  ### params= is a must and it should hold the multiple data
     # DICTIONARY DATA TYPE is HomePageData
-    @pytest.fixture(params= HomePageData.test_homepage_data)  ## calling the HomePageData class and then it variable as class.variable
+    @pytest.fixture(params= HomePageData.getTestData("test case 5"))  ## calling the HomePageData class and then it variable as class.variable
     def getData(self, request):  ### request argument is manadatory
         return request.param
 
